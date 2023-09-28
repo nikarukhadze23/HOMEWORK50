@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Kumbh+Sans:wght@700&family=Open+Sans&family=Oswald:wght@500&family=Outfit:wght@400;700&family=Plus+Jakarta+Sans&family=Poppins&family=Roboto:ital,wght@1,700&display=swap');
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ body{
+    background-color: white;
+    
+ }
+
+ .box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 152px 0px 151px 0px;
+ }
+
+ .container{
+    background-color: white;
+    height: 499px;
+    width: 320px;
+    padding: 16px;
+    border-radius: 20px;
+    display: block;
+    justify-content: center;
+ }
+
+ .pc{
+    justify-content: center;
+    align-items: center;
+    background-color: #267bfc;
+    display: flex;
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+ }
+
+ h1{
+    text-align: center;
+    color: #1e3050;
+    font-family: outfit;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 24px 16px 16px 16px;
+ }
+
+ p{
+    font-size: 15px;
+    margin: 0 10px 40px 16px;
+    text-align: center;
+    font-weight: 400;
+    font-family:outfit ;
+    color: #7c88a1;
+ }
